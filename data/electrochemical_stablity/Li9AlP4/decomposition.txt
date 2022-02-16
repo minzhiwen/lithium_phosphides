@@ -1,0 +1,30 @@
+Voltage: -0.0 V
+8 Li9AlP4 + 40 Li -> 8 Li2Al + 32 Li3P
+
+Voltage: 0.041269533333333275 V
+8 Li9AlP4 + 36 Li -> 4 Li3Al2 + 32 Li3P
+
+Voltage: 0.2256781733333335 V
+8 Li9AlP4 + 32 Li -> 8 LiAl + 32 Li3P
+
+Voltage: 0.32964112833333403 V
+8 Li9AlP4 + 26.67 Li -> 2.667 LiAl3 + 32 Li3P
+
+Voltage: 0.40654770333333334 V
+8 Li9AlP4 + 24 Li -> 32 Li3P + 8 Al
+
+Voltage: 0.41806136416666884 V
+8 Li9AlP4 -> 8 Li9AlP4
+
+Voltage: 0.921976189999999 V
+8 Li9AlP4 -> 8 AlP + 24 LiP + 48 Li
+
+Voltage: 0.9324555802083341 V
+8 Li9AlP4 -> 3.429 Li3P7 + 8 AlP + 61.71 Li
+
+Voltage: 1.162037157083336 V
+8 Li9AlP4 -> 3.429 LiP7 + 8 AlP + 68.57 Li
+
+Voltage: 1.2716456391666677 V
+8 Li9AlP4 -> 8 AlP + 24 P + 72 Li
+

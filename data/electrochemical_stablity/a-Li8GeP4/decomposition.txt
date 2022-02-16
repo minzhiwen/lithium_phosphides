@@ -1,0 +1,26 @@
+Voltage: -0.0 V
+8 Li8GeP4 + 62 Li -> 2 Li15Ge4 + 32 Li3P
+
+Voltage: 0.2907236008333334 V
+8 Li8GeP4 + 50 Li -> 2 Li9Ge4 + 32 Li3P
+
+Voltage: 0.4470074763333336 V
+8 Li8GeP4 + 40 Li -> 8 LiGe + 32 Li3P
+
+Voltage: 0.5616015008333333 V
+8 Li8GeP4 + 32 Li -> 32 Li3P + 8 Ge
+
+Voltage: 0.8345387911458342 V
+8 Li8GeP4 -> 8 Li8GeP4
+
+Voltage: 0.9052306830208321 V
+8 Li8GeP4 -> 8 Ge + 32 LiP + 32 Li
+
+Voltage: 0.9324555802083341 V
+8 Li8GeP4 -> 4.571 Li3P7 + 8 Ge + 50.29 Li
+
+Voltage: 1.162037157083336 V
+8 Li8GeP4 -> 4.571 LiP7 + 8 Ge + 59.43 Li
+
+Voltage: 1.2716456391666677 V
+8 Li8GeP4 -> 32 P + 8 Ge + 64 Li

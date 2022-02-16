@@ -1,0 +1,26 @@
+Voltage: -0.0 V
+2 Li14GeP6 + 15.5 Li -> 0.5 Li15Ge4 + 12 Li3P
+
+Voltage: 0.2907236008333334 V
+2 Li14GeP6 + 12.5 Li -> 0.5 Li9Ge4 + 12 Li3P
+
+Voltage: 0.4470074763333336 V
+2 Li14GeP6 + 10 Li -> 2 LiGe + 12 Li3P
+
+Voltage: 0.5616015008333333 V
+2 Li14GeP6 + 8 Li -> 12 Li3P + 2 Ge
+
+Voltage: 0.8698847370833331 V
+2 Li14GeP6 -> 2 Ge + 12 LiP + 16 Li
+
+Voltage: 0.9324555802083341 V
+2 Li14GeP6 -> 1.714 Li3P7 + 2 Ge + 22.86 Li
+
+Voltage: 1.162037157083336 V
+2 Li14GeP6 -> 1.714 LiP7 + 2 Ge + 26.29 Li
+
+Voltage: 1.2716456391666677 V
+2 Li14GeP6 -> 12 P + 2 Ge + 28 Li
+
+
+
